@@ -1,0 +1,18 @@
+{
+    "name": "Editor.Math.SigmentSystem",
+    "rootNamespace": "Math.SigmentSystem",
+    "references": [
+        "GUID:3565494502785f74ab8fccaeea6cc9c4"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

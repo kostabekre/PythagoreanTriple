@@ -1,0 +1,18 @@
+{
+    "name": "Editor.Math.Space",
+    "rootNamespace": "Editor.Math.Space",
+    "references": [
+        "GUID:f79b964d68852bb4393ee6ff5cc119d3"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

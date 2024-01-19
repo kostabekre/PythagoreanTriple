@@ -1,0 +1,16 @@
+{
+    "name": "Math.Space",
+    "rootNamespace": "Math.Space",
+    "references": [
+        "GUID:d316fa7a5909a004592b9d27d31fb226"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,19 @@
+{
+    "name": "View.SigmentSystem",
+    "rootNamespace": "View.SigmentSystem",
+    "references": [
+        "GUID:3565494502785f74ab8fccaeea6cc9c4",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:4697c7becd7a6b942bdcd3d539eb3e24",
+        "GUID:d316fa7a5909a004592b9d27d31fb226"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
